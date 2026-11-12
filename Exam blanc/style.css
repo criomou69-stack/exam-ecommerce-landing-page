@@ -1,0 +1,65 @@
+body {
+	display: flex;
+	flex-direction: column;
+	padding: 5pc;
+}
+.green {
+	color: white;
+	background-color: #06b77f;
+	border-radius: 5px;
+}
+.mid {
+	display: flex;
+	flex-direction: row;
+	background-color: #dbe9df;
+}
+.gray {
+	background-color: #eef6ee;
+}
+
+.haut {
+	display: flex;
+	flex-direction: row;
+	padding: 10px;
+}
+.evenhigher {
+	padding: 10px;
+	display: flex;
+	flex-direction: row;
+	height: 50%;
+}
+.Skills {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+.Audit {
+	background-color: #e2eae3;
+	height: fit-content;
+	border-radius: 5px;
+}
+h1 {
+	font-weight: 900;
+}
+.Tools {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+}
+.lign {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	border: 10px;
+}
+.tab {
+	border: 3px;
+	border-color: #e2eae3;
+}
+.G {
+	color: #6c7a71;
+}
+h4 {
+	background-color: #bbcabf;
+	border-radius: 5px;
+}
